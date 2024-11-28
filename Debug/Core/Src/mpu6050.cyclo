@@ -1,0 +1,9 @@
+../Core/Src/mpu6050.c:12:5:MPU6050_ScanDeviceID	3
+../Core/Src/mpu6050.c:23:26:MPU6050_ReadRegisterData	2
+../Core/Src/mpu6050.c:30:27:MPU6050_WriteRegisterData	2
+../Core/Src/mpu6050.c:41:19:MPU6050_Init	2
+../Core/Src/mpu6050.c:85:6:MPU6050_getAccelValue	1
+../Core/Src/mpu6050.c:95:6:MPU6050_getGyroValue	1
+../Core/Src/mpu6050.c:103:7:MPU6050_getTempValue	1
+../Core/Src/mpu6050.c:113:6:MPU6050_getAccelIng	5
+../Core/Src/mpu6050.c:138:6:MPU6050_getGyroIns	5
